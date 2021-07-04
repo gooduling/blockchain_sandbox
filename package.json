@@ -20,7 +20,7 @@
     "express-session": "^1.15.6",
     "helmet": "^3.8.2",
     "jsonwebtoken": "^8.0.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "method-override": "^2.3.10",
     "methods": "^1.1.2",
     "mongoose": "^4.12.0",
